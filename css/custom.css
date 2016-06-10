@@ -1,0 +1,159 @@
+
+.bgverde{
+  background: url(../images/bgverde.jpg) no-repeat top center;
+  background-size: cover;
+}
+
+.bgratts{
+  background: url(../images/ratts5.png) no-repeat top center;
+  background-size: cover;
+  height: 450px;
+  background-attachment: fixed;
+}
+
+.mgleft20{
+  margin-left: 20%;
+  padding-top: 100px;
+}
+
+.colorazul{
+  color: #256276;
+}
+
+.bgabout{
+	background-image: url("../images/brunoabout.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+  background-color: #fff;
+  height: 600px;
+  background-position: 8% 5%;
+}
+
+.corverde{
+	color: #268aab
+}
+
+.bgbranco{
+	background-color: #fff !important;
+}
+
+.colorbranco{
+  color: #fff !important;
+}
+
+.colorpreto{
+  color: #000 !important;
+}
+
+.bordabranca{
+      border: 4px double #fff !important;
+}
+
+.pabout{
+    padding-right: 115px;
+    line-height: 2.5;
+    font-weight: 500;
+}
+
+
+.pdgtopbot{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.mgtop35{
+  margin-top: 35px;
+}
+
+.mgbot20{
+  margin-bottom: 20px;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.ftz50{
+  font-size: 50px;
+  color: #256276;
+}
+
+.tituloConhecimentos{
+  padding-left: 50px;
+  margin-top: 80px;
+  padding-right: 50px;
+  text-align: center;
+
+}
+
+.tituloConhecimentos2{
+
+  margin-top: 80px;
+  padding-right: 50px;
+
+}
+
+.tituloConhecimentos3{
+
+  margin-top: 80px;
+  padding-right: 50px;
+  text-align: center;
+
+}
+
+.pdgAbout{
+  padding: 30px;
+}
+
+.profissaoMargin{
+  background-color: #256276;
+  margin-top: -100px;
+}
+
+.rattsText{
+  text-align: center; 
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.42);
+}
+
+
+
+@media only screen and (max-width:991px){
+
+  .pdgAbout{
+  padding: 0px;
+  text-align: center;
+  }
+
+  .pabout{
+    padding-right: 0px;
+    line-height: 2.5;
+    font-weight: 500;
+    padding: 30px;
+    }
+
+    .profissaoMargin{
+      background-color: #256276;
+      margin-top: 0px;
+    }
+
+    .tituloConhecimentos3{
+    margin-top: 80px;
+    padding-right: 50px;
+    text-align: center;
+    padding-left: 73px;
+   }
+
+   .rattsText{
+     text-align: center; 
+     color: #fff;
+     background-color: rgba(0, 0, 0, 0.42);
+     font-size: 22px !important;
+      }
+
+
+
+}
+
+
+
